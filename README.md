@@ -24,7 +24,8 @@ The most profitable region is North America, with **Europe & Africa** ranking se
 
 Conclusion: to boost sales, I recommend **expanding marketing efforts** in Europe, Africa, Asia, and other countries. This could reach billions of new customers, significantly increasing sales numbers dramatically. Additionally, **paying attention to critics' feedback** and incorporating the features they value into new consoles could enhance quality and improve market reception.
 
-# Interactive Tableau Dash 1
+# Interactive Tableau Dash 2
+link to the "Video Games Sales" dataset:https://mavenanalytics.io/data-playground?page=2&pageSize=5 
+
 Interactive dash for video game genres and developers:
 https://public.tableau.com/app/profile/meryam.eshetu1259/viz/VideoGamesGenresandDevelopersDash/GenresandDevelopersDASH
-
