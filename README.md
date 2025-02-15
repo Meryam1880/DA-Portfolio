@@ -5,7 +5,8 @@ link to the "Video Games Sales" dataset:https://mavenanalytics.io/data-playgroun
 
 Interactive dash for video game console sales:
 https://public.tableau.com/app/profile/meryam.eshetu1259/viz/salesofVideoGameConsoles/consolesalesDash
-#Analysis of Video game console sales
+#Analysis of Video game console sales:
+
 *Console sales data show a pattern of the most popular and least popular consoles worldwide. It also shows the most profitable countries and the most popular consoles. The data I will analyze and compare is based on console sales data from North America, Europe & Africa, Asia & other (not including Africa, Europe, or North America) countries, and Global sales. Additionally, I will analyze Critic Scores for the video game consoles, the critic scores are calculated from the sum of all reviews for each console.*
 
 Starting with **North America**, the region shows the **highest sales**. Data shows that North America has a big market when it comes to video game consoles, this big market gets highlighted when comparing North American sales with the other places. When compared to console sales for other countries North America's lowest-selling console, the XOne (23 million units), outperforms Europe & Africa's 6th highest, the PSP (21.8 million), and Asia & Other's 5th highest, the PSP (12.82 million).
