@@ -29,3 +29,4 @@ link to the "Video Games Sales" dataset:https://mavenanalytics.io/data-playgroun
 
 Interactive dash for video game genres and developers:
 https://public.tableau.com/app/profile/meryam.eshetu1259/viz/VideoGamesGenresandDevelopersDash/GenresandDevelopersDASH
+# Analysis of Video Game genres and developers:
