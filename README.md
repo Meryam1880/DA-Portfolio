@@ -5,7 +5,8 @@ link to the "Video Games Sales" dataset:https://mavenanalytics.io/data-playgroun
 
 Interactive dash for video game console sales:
 https://public.tableau.com/app/profile/meryam.eshetu1259/viz/salesofVideoGameConsoles/consolesalesDash
-#Analysis of Video game console sales:
+
+# Analysis of Video game console sales:
 
 *Console sales data show a pattern of the most popular and least popular consoles worldwide. It also shows the most profitable countries and the most popular consoles. The data I will analyze and compare is based on console sales data from North America, Europe & Africa, Asia & other (not including Africa, Europe, or North America) countries, and Global sales. Additionally, I will analyze Critic Scores for the video game consoles, the critic scores are calculated from the sum of all reviews for each console.*
 
