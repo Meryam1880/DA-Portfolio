@@ -1,5 +1,6 @@
 # Meryam Eshetu DA-Portfolio
-This is a portfolio for Meryam Eshetu, in this portfolio, I will be putting some data analysis work that I did using public datasets. My qualifications is that I have a IBM professional Data Analyst certificate
+This portfolio showcases the data analysis of my work, using public datasets to demonstrate key analytical skills. I am a mechanical engineering student with a strong interest in data analysis, particularly in data interpretation and visualization. My qualifications include an IBM Professional Data Analyst Certificate, which has helped me develop expertise in analyzing and presenting data effectively
+
 # Interactive Tableau Dash 1
 link to the "Video Games Sales" dataset:https://mavenanalytics.io/data-playground?page=2&pageSize=5 
 
@@ -46,7 +47,7 @@ Based on **Critics Action is the best genre**, role-playing is 2nd best, and sho
 
 Conclusion: To boost sales **developers** should try to **make more genres** and try to **market** them to appeal **to different audiences**. Currently, many developers focus on a single successful genre for their target market. However, creating fresh, engaging content across multiple genres can attract a broader audience and boost sales. Market Story-driven games should be marketed more in Europe, Africa, Asia, and other regions, as they could offer new experiences and drive sales growth. Market more adventure and sports games to North American audiences. At the moment it seems that different regions are associated with only one or two dominant genres, which may be limiting overall profits. **Expanding genre marketing** can lead to greater success worldwide
 
-# Power BI Dash analysis
+# Power BI financial complaints analysis
 
 link to the data used for the dashboard:
 https://mavenanalytics.io/data-playground?page=4&pageSize=5
@@ -69,3 +70,10 @@ The year with the most reported issues was **2022, with 12,915 complaints** whil
 
 Conclusion: Based on this analysis, it is clear that banks and financial institutions need to **strengthen fraud prevention measures and improve customer resolution processes**. One potential approach is to apply the successful protections used for loans to other financial products. After the 2020 pandemic, it is prevalent that online shopping is bigger than ever, and because of this financial institutions need to enhance security measures to protect consumers from fraud when they make online financial transactions. If financial institutions take that extra step to make the customer experience pleasant it will build greater trust and loyalty among their customers.
 
+# How to contact me
+thank you for taking the time to view my work if you would like to contact me here are all the ways to contact me:
+phone#: (702)-475-0218
+my email: meryam.eshetu1@gmail.com
+my University email: eshetm2@unlv.nevada.edu
+my LinkedIn: https://www.linkedin.com/in/meryam-eshetu-b614a8285/?trk=opento_sprofile_details
+my Handshake: https://app.joinhandshake.com/profiles/an2ujz
