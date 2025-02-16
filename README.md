@@ -49,4 +49,4 @@ Conclusion: To boost sales **developers** should try to **make more genres** and
 link to the data used for the dashboard:
 https://mavenanalytics.io/data-playground?page=4&pageSize=5
 
-The Dashboard I created is uploaded here as a screenshot titled "Financial Consumer Complaints Dashboard"
+The Dashboard I created is uploaded here as a screenshot titled "Financial Consumer Complaints screenshot"
