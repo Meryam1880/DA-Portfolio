@@ -2,7 +2,9 @@
 This is a portfolio for Meryam Eshetu, in this portfolio, I will be putting some data analysis work that I did using public datasets. My qualifications is that I have a IBM professional Data Analyst certificate
 # Interactive Tableau Dash 1
 link to the "Video Games Sales" dataset:https://mavenanalytics.io/data-playground?page=2&pageSize=5 
+
 This dashboard was created after cleaning and refining the Excel dataset.
+
 Interactive dash for video game console sales:
 https://public.tableau.com/app/profile/meryam.eshetu1259/viz/salesofVideoGameConsoles/consolesalesDash
 
@@ -50,3 +52,20 @@ link to the data used for the dashboard:
 https://mavenanalytics.io/data-playground?page=4&pageSize=5
 
 The Dashboard I created is uploaded here as a screenshot titled "Financial Consumer Complaints screenshot"
+Analysis:
+
+
+Consumer financial complaints have been a rising concern with many complaints about many types of financial products and services. In this analysis, I will examine financial complaints regarding Checking or savings accounts, Credit cards, Credit services, and other personal consumer reports. Additionally, I will explore the top 10 states with the highest number of reports and analyze complaint trends from 2017 to 2023.
+
+The financial product with the **highest** count of **reported issues is the "Checking or savings account"** section, with 24.1k complaints. The strong number of complaints shows significant problems in banking services, likely stemming from account access issues, **unauthorized transactions**, or poor customer service. These challenges can disrupt consumers' ability to manage their accounts effectively, leading to increased reports. Since the “Checking or savings account” product is the most problematic product banks need to focus their attention on improving this section.
+
+The financial product with the second-highest number of reported issues is the “Credit card or prepaid card” section, with 15.8k complaints. The third-highest is the “Credit reporting, credit repair services, or other personal consumer reports” category, with 7,520 reported issues. This information highlights significant **concerns regarding credit card usage**, fees, disputes, and fraudulent activities. Additionally, they reflect issues with inaccurate credit reports, difficulties in disputing errors, and identity theft. These challenges show that banks and financial institutions need to **improve fraud prevention measures** and enhance customer resolution processes. If this problem is solved it will restore the customer's trust in the financial institution.
+
+The financial product with the **least** count of **issues is the “Payday loan, title loan, or personal loan”*** reaching a total of 331 issues. The data shows that loan-based problems are the least problematic financial concerns. This shows that financial institutions have mastered protecting loans and have **higher restrictions**.
+
+The state with the most reported issues is **California, with 8.2k complaints**, followed by Florida (2.3k) and New York (1.4k). California’s report numbers are significantly higher than that of Florida and New York, this means that California has a high amount of account access issues, unauthorized transactions, and fraudulent activities. These problems could stem from weaknesses in financial institutions' security measures, a higher volume of financial transactions in the state, or a greater prevalence of financial fraud in California
+
+The year with the most reported issues was **2022, with 12,915 complaints** while the fewest issues were reported in 2017 (5,342 complaints). Based on the data complaints started dramatically **increasing in 2020** and reached their peak in 2022 before declining. This increase in 2020 could be linked to the COVID-19 pandemic when many people had economic instability, increased reliance on online banking, and a rise in **online financial fraud** as more people made digital purchases.
+
+Conclusion: Based on this analysis, it is clear that banks and financial institutions need to **strengthen fraud prevention measures and improve customer resolution processes**. One potential approach is to apply the successful protections used for loans to other financial products. After the 2020 pandemic, it is prevalent that online shopping is bigger than ever, and because of this financial institutions need to enhance security measures to protect consumers from fraud when they make online financial transactions. If financial institutions take that extra step to make the customer experience pleasant it will build greater trust and loyalty among their customers.
+
