@@ -72,8 +72,14 @@ Conclusion: Based on this analysis, it is clear that banks and financial institu
 
 # How to contact me
 thank you for taking the time to view my work if you would like to contact me here are all the ways to contact me:
+
 phone#: (702)-475-0218
+
 my email: meryam.eshetu1@gmail.com
+
 my University email: eshetm2@unlv.nevada.edu
+
 my LinkedIn: https://www.linkedin.com/in/meryam-eshetu-b614a8285/?trk=opento_sprofile_details
+
 my Handshake: https://app.joinhandshake.com/profiles/an2ujz
+
