@@ -43,3 +43,10 @@ The biggest genre based on **global sales** is Shooter games, 2nd biggest is Act
 Based on **Critics Action is the best genre**, role-playing is 2nd best, and shooter is 3rd best. Based on the scores, it is evident that **Sports** are **not very popular with critics**, I believe this is because sports games don't have much depth regarding story, plot, or characters and because of this it leaves critics generally unimpressed.
 
 Conclusion: To boost sales **developers** should try to **make more genres** and try to **market** them to appeal **to different audiences**. Currently, many developers focus on a single successful genre for their target market. However, creating fresh, engaging content across multiple genres can attract a broader audience and boost sales. Market Story-driven games should be marketed more in Europe, Africa, Asia, and other regions, as they could offer new experiences and drive sales growth. Market more adventure and sports games to North American audiences. At the moment it seems that different regions are associated with only one or two dominant genres, which may be limiting overall profits. **Expanding genre marketing** can lead to greater success worldwide
+
+# Power BI Dash analysis
+
+link to the data used for the dashboard:
+https://mavenanalytics.io/data-playground?page=4&pageSize=5
+
+The Dashboard I created is uploaded here as a screenshot titled "Financial Consumer Complaints Dashboard"
