@@ -1,4 +1,4 @@
-# DA-Portfolio
+# Meryam Eshetu DA-Portfolio
 This is a portfolio for Meryam Eshetu, in this portfolio, I will be putting some data analysis work that I did using public datasets. My qualifications is that I have a IBM professional Data Analyst certificate
 # Interactive Tableau Dash 1
 link to the "Video Games Sales" dataset:https://mavenanalytics.io/data-playground?page=2&pageSize=5 
