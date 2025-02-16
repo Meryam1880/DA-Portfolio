@@ -2,7 +2,7 @@
 This is a portfolio for Meryam Eshetu, in this portfolio, I will be putting some data analysis work that I did using public datasets. My qualifications is that I have a IBM professional Data Analyst certificate
 # Interactive Tableau Dash 1
 link to the "Video Games Sales" dataset:https://mavenanalytics.io/data-playground?page=2&pageSize=5 
-
+This dashboard was created after cleaning and refining the Excel dataset.
 Interactive dash for video game console sales:
 https://public.tableau.com/app/profile/meryam.eshetu1259/viz/salesofVideoGameConsoles/consolesalesDash
 
@@ -26,7 +26,7 @@ Conclusion: to boost sales, I recommend **expanding marketing efforts** in Europ
 
 # Interactive Tableau Dash 2
 link to the "Video Games Sales" dataset:https://mavenanalytics.io/data-playground?page=2&pageSize=5 
-
+This dashboard was created after cleaning and refining the Excel dataset.
 Interactive dash for video game genres and developers:
 https://public.tableau.com/app/profile/meryam.eshetu1259/viz/VideoGamesGenresandDevelopersDash/GenresandDevelopersDASH
 # Analysis of Video Game genres and developers:
